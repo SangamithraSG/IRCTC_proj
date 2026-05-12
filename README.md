@@ -69,11 +69,3 @@ The **IRCTC Real-Time Data Pipeline** is a cloud-based data processing system de
 ✅ **Implement Dataflow Streaming Mode** for real-time analytics.  
 ✅ **Optimize BigQuery Queries** to enhance cost efficiency and performance.  
 
-## 👨‍💻 Author  
-**Sujit Mahapatra**  
-📧 [Email](mailto:sujitwork08@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/mr-sm25)  
-
-## ⭐ Contribute  
-Contributions are welcome! If you’d like to improve the project, feel free to fork the repository and submit a pull request.
-
-
